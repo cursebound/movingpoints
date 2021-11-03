@@ -1,1 +1,1 @@
-# movingpoints
+https://cursebound.github.io/movingpoints/
